@@ -3,7 +3,7 @@
 A tech enthusiast exploring various programming languages and frameworks, eager to learn and grow in web and mobile development. 🚀
 
 ### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/naili-safira-7857532b4">
+<a href="https://www.linkedin.com/in/naili-safira">
   <img align="left" alt="nlsfra Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nlisfra">
